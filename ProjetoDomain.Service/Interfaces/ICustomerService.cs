@@ -12,5 +12,6 @@ namespace ProjetoDomain.Service.Interfaces
         IEnumerable<Customer> GetBestCustomers(int amountOfCustomers);
         IEnumerable<Customer> GetFullInformation();
         IEnumerable<Customer> GetOnlyEntityInformation();
+        Customer GetFullInformationById(int id);
     }
 }

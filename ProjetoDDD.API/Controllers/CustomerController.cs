@@ -47,21 +47,25 @@ namespace ProjetoDDD.API.Controllers
 
         // GET api/customer/5
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public ActionResult<Customer> Get(int id)
         {
-            return "value";
+            return _customerService.ListCustomerById(id);
         }
 
         // POST api/customer
         [HttpPost]
-        public void Post(string value)
+        public void Post([FromBody] Customer customerJson)
         {
+            //var customer = JsonConvert.DeserializeObject<Customer>(customerJson);
+            _customerService.AddCustomer(customerJson);
         }
 
         // DELETE api/customer/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            var customer =_customerService.GetFullInformationById(id);
+            _customerService.DeleteCustomer(customer);
         }
     }
 }

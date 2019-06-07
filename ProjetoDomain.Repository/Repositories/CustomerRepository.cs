@@ -30,5 +30,10 @@ namespace ProjetoDomain.Repository.Repositories
         {
             return _projetoDDDEntities.Customer.ToList();
         }
+
+        public Customer GetFullInformationById(int id)
+        {
+            return _projetoDDDEntities.Customer.Include(x => x.Endereco).Where(x => x.Id.Equals(id)).FirstOrDefault();
+        }
     }
 }

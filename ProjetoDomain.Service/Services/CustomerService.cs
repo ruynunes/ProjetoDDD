@@ -65,5 +65,13 @@ namespace ProjetoDomain.Service.Interfaces
                 return unitOfWork.Customers.GetOnlyEntityInformation();
             }
         }
+
+        public Customer GetFullInformationById(int id)
+        {
+            using (var unitOfWork = new UnitOfWork(new ProjetoDDDContext()))
+            {
+                return unitOfWork.Customers.GetFullInformationById(id);
+            }
+        }
     }
 }
