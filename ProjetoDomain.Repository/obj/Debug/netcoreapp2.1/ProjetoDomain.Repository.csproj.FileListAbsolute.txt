@@ -1,0 +1,14 @@
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDomain.Repository.deps.json
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDomain.Repository.runtimeconfig.json
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDomain.Repository.runtimeconfig.dev.json
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDomain.Repository.dll
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDomain.Repository.pdb
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDDD.Domain.dll
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDDD.Domain.pdb
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDomain.Repository.csprojAssemblyReference.cache
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDomain.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDomain.Repository.AssemblyInfoInputs.cache
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDomain.Repository.AssemblyInfo.cs
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDomain.Repository.csproj.CopyComplete
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDomain.Repository.dll
+C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDomain.Repository.pdb
