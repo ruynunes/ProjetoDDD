@@ -54,10 +54,9 @@ namespace ProjetoDDD.API.Controllers
 
         // POST api/customer
         [HttpPost]
-        public void Post([FromBody] Customer customerJson)
+        public void Post([FromBody] Customer customer)
         {
-            //var customer = JsonConvert.DeserializeObject<Customer>(customerJson);
-            _customerService.AddCustomer(customerJson);
+            _customerService.AddCustomer(customer);
         }
 
         // DELETE api/customer/5

@@ -15,6 +15,7 @@ namespace ProjetoDomain.Repository.Context
         }
 
         public virtual DbSet<Customer> Customer { get; set; }
+        public virtual DbSet<Endereco> Endereco { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -41,6 +42,18 @@ namespace ProjetoDomain.Repository.Context
                 entity.Property(e => e.ZipCode)
                     .IsRequired()
                     .HasMaxLength(50);
+            });
+
+            modelBuilder.Entity<Endereco>(entity =>
+            {
+                entity.Property(e => e.Id).ValueGeneratedNever();
+
+                entity.Property(e => e.Descricao)
+                    .IsRequired()
+                    .HasMaxLength(50);
+
+                entity.Property(e => e.CustomerId)
+                    .IsRequired();
             });
         }
     }

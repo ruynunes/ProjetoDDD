@@ -14,4 +14,8 @@
     <ProjectReference Include="..\ProjetoDDD.Domain\ProjetoDDD.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>

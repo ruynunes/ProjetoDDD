@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj",
       "projectName": "ProjetoDDD.Domain",
-      "projectPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj",
+      "projectPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj",
       "packagesPath": "C:\\Users\\ruynunes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

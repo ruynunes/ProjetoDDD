@@ -7,3 +7,12 @@ C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp
 C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp2.1\ProjetoDDD.Domain.dll
 C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp2.1\ProjetoDDD.Domain.pdb
 C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp2.1\ProjetoDDD.Domain.csprojAssemblyReference.cache
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\netcoreapp2.1\ProjetoDDD.Domain.deps.json
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\netcoreapp2.1\ProjetoDDD.Domain.dll
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\netcoreapp2.1\ProjetoDDD.Domain.pdb
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp2.1\ProjetoDDD.Domain.csprojAssemblyReference.cache
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp2.1\ProjetoDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp2.1\ProjetoDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp2.1\ProjetoDDD.Domain.AssemblyInfo.cs
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp2.1\ProjetoDDD.Domain.dll
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netcoreapp2.1\ProjetoDDD.Domain.pdb

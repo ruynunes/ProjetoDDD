@@ -11865,11 +11865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.API\\ProjetoDDD.API.csproj",
+      "projectUniqueName": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.API\\ProjetoDDD.API.csproj",
       "projectName": "ProjetoDDD.API",
-      "projectPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.API\\ProjetoDDD.API.csproj",
+      "projectPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.API\\ProjetoDDD.API.csproj",
       "packagesPath": "C:\\Users\\ruynunes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.API\\obj\\",
+      "outputPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11888,11 +11888,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj": {
-              "projectPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj"
+            "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj"
             },
-            "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Service\\ProjetoDDD.Service.csproj": {
-              "projectPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Service\\ProjetoDDD.Service.csproj"
+            "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Service\\ProjetoDDD.Service.csproj": {
+              "projectPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Service\\ProjetoDDD.Service.csproj"
             }
           }
         }

@@ -3491,11 +3491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Repository\\ProjetoDDD.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Repository\\ProjetoDDD.Repository.csproj",
       "projectName": "ProjetoDDD.Repository",
-      "projectPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Repository\\ProjetoDDD.Repository.csproj",
+      "projectPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Repository\\ProjetoDDD.Repository.csproj",
       "packagesPath": "C:\\Users\\ruynunes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Repository\\obj\\",
+      "outputPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3514,8 +3514,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj": {
-              "projectPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj"
+            "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj"
             }
           }
         }

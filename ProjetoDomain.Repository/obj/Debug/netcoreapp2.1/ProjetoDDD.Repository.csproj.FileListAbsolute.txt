@@ -10,3 +10,15 @@ C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\net
 C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.csproj.CopyComplete
 C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.dll
 C:\Users\ruynunes\source\repos\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.pdb
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDDD.Repository.deps.json
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDDD.Repository.dll
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDDD.Repository.pdb
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDDD.Domain.dll
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\bin\Debug\netcoreapp2.1\ProjetoDDD.Domain.pdb
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.csprojAssemblyReference.cache
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.AssemblyInfoInputs.cache
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.AssemblyInfo.cs
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.csproj.CopyComplete
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.dll
+C:\Users\ruynunes\Documents\RepositorioRuy\ProjetoDDD\ProjetoDomain.Repository\obj\Debug\netcoreapp2.1\ProjetoDDD.Repository.pdb

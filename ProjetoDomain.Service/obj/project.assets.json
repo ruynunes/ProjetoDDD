@@ -3512,11 +3512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Service\\ProjetoDDD.Service.csproj",
+      "projectUniqueName": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Service\\ProjetoDDD.Service.csproj",
       "projectName": "ProjetoDDD.Service",
-      "projectPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Service\\ProjetoDDD.Service.csproj",
+      "projectPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Service\\ProjetoDDD.Service.csproj",
       "packagesPath": "C:\\Users\\ruynunes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Service\\obj\\",
+      "outputPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3535,11 +3535,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj": {
-              "projectPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj"
+            "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDDD.Domain\\ProjetoDDD.Domain.csproj"
             },
-            "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Repository\\ProjetoDDD.Repository.csproj": {
-              "projectPath": "C:\\Users\\ruynunes\\source\\repos\\ProjetoDDD\\ProjetoDomain.Repository\\ProjetoDDD.Repository.csproj"
+            "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Repository\\ProjetoDDD.Repository.csproj": {
+              "projectPath": "C:\\Users\\ruynunes\\Documents\\RepositorioRuy\\ProjetoDDD\\ProjetoDomain.Repository\\ProjetoDDD.Repository.csproj"
             }
           }
         }
